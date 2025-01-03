@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-## 📈 GitHub Stats
+//## 📈 GitHub Stats
 
-![Shahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahin-r71&show_icons=true&theme=radical)
+//![Shahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahin-r71&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
